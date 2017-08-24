@@ -1,0 +1,12 @@
+vendor
+node_modules
+
+public/js
+public/css
+public/fonts
+public/index.html
+public/404.html
+
+.env
+.firebaserc
+composer.lock
